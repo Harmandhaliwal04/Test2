@@ -1,0 +1,41 @@
+body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
+    margin: 0;padding:0;
+    }
+    body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+    background-color: gray;
+    
+    }
+    .mynav{
+      width: 1500px;
+    background-color: black!important;
+    position: fixed;
+    }
+    .mynav a{
+    color: black!important;
+    font-size: 20px;
+    margin-left: 50px;
+    text-decoration: none;
+    }
+    a:hover{
+        background-color: red;
+    }
+    .aboutme{
+      padding-top:90px;
+     color: black;
+     font-size: 18px;
+    }
+    .image img{
+     width: 500px;
+     padding-top: 80px;
+     height: 500px;
+    }
+    .maptext{
+      font-size: 18px;
+      
+    }
+    .map {
+    height:400px;
+    
+    }
